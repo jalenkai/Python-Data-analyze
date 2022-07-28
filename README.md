@@ -3,9 +3,19 @@
 ## 重點複習
 
 > 函數物件化(共用函式、處理字串函數、圖像函數)
-- 共用函式庫
-> 類別
+- 共用函式庫建立
+- 資料庫函式庫建立
+- 圖像函式庫建立
+
+> 類別,字典dict,list
+- class object
+  
 > 模組與套件
+- import pandas、numpy、scipy、matplotlib
+- import os,sys,time,datatime
+- 爬蟲,圖表
+- 模組(自訂)分詞,簡繁轉換
+  
 > 特定符號分隔的文字檔案
 > JSON,XML,CSV
 > 資料庫表格
