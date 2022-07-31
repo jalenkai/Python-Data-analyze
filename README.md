@@ -32,10 +32,9 @@
 > 半結構式資料 (Semi-structured data)
 - 半結構式資料，介於結構與非結構資料庫之間。
 - 完全沒想過未來要加什麼資料，也可以臨時突來一筆地加入。(xml,json)
-### 資料處裡
+> Python大數據分析最重要的四個模組
 ```
-1.Python大數據分析最重要的四個模組
-Python資料分析最重要的四個模組：pandas、numpy、scipy、matplotlib。
+1.Python資料分析最重要的四個模組：pandas、numpy、scipy、matplotlib。
 ```
 > pandas
 - pandas，類似於Excel試算表，pandas在Python資料分析及建模上有不錯的效果，它結合NumPy（Numerical Python的簡稱）的特性，以及試算表和關連式資料庫（SQL）的資料操作能力，可以用來對資料進行重構、切割、聚合及選擇子集合等操作。有時候，使用pandas時會和數值與科學運算有關的SciPy以前面提過的NumPy，與統計分析有關的StatsModels，與機器學習有關的 scikit-learn，與資料視學化有關的 matplotlib 及 seaborn 等等。pandas是資料科學分析工具前階段的工具。
@@ -57,7 +56,7 @@ zip_codes ={
 "}
 print(pd.Series(zip_codes))
 ```
-
+> numpy
 
 ## 資料處裡
 > 文字
