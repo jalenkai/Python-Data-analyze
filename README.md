@@ -32,7 +32,6 @@
 > 半結構式資料 (Semi-structured data)
 - 半結構式資料，介於結構與非結構資料庫之間。
 - 完全沒想過未來要加什麼資料，也可以臨時突來一筆地加入。(xml,json)
-- 
 ```
 1.Python大數據分析最重要的四個模組
 Python資料分析最重要的四個模組：pandas、numpy、scipy、matplotlib。
